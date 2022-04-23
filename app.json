@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vladavox.ReactNative_todo_list"
     },
     "web": {
       "favicon": "./assets/favicon.png"
